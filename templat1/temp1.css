@@ -1,0 +1,101 @@
+#container
+{
+    width: 100vw;
+    height: 120vh;
+    background-image: url("https://mcdn.wallpapersafari.com/medium/66/33/JUBsMb.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat:repeat;
+    background-size: cover;
+
+}
+.head
+{
+    position: relative;
+    width: 100%;
+    height: 70px;
+    background-color: #eaeaea;
+}
+.logo
+{
+    position: absolute;
+    top: 4px;
+    left: 20px;
+}
+.contact
+{
+    position: absolute;
+    left: 65%;
+    top: 17px;
+}
+ul
+{
+    list-style: none;
+    background-color: #eef1f3;
+}
+li
+{
+    float: left;
+}
+a
+{
+    text-decoration: none;
+    display: block;
+    padding: 10px 51.4px;
+    color: #000000;
+}
+.img
+{
+    position: absolute;
+    left: 124px;
+    top: 125px;
+}
+.about
+{
+    width: 720px;
+    position: absolute;
+    top: 125px;
+    right: 85px;
+    background-color: #494948;
+}
+.card1
+{
+    position: absolute;
+    top: 532px;
+    width: 220px;
+    height: 356px;
+    background-color: aliceblue;
+    left: 120px;
+}
+.card2
+{
+    position: absolute;
+    top: 532px;
+    width: 220px;
+    height: 356px;
+    background-color: aliceblue;
+    left: 473px;
+}
+.card3
+{
+    position: absolute;
+    top: 532px;
+    width: 220px;
+    height: 356px;
+    background-color: aliceblue;
+    left: 862px;
+}
+.card4
+{
+    position: absolute;
+    top: 532px;
+    width: 220px;
+    height: 356px;
+    background-color: aliceblue;
+    left: 1210px;
+}
+.submit4
+{
+    position: absolute;
+    left: 50px;
+}
